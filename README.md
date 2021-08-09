@@ -2,7 +2,7 @@
 [portfolio](https://recafox.github.io/portfolio/)  
 `@ Taiwan`  
 `# front end developer`  
-`#react` `#vue` `#node.js` `#express` `#sass` `#vanilla js`  
+`# react` `# vue` `# node.js` `# express` `# sass` `# vanillaJS`  
 
 ヨッ！我rita！  
 平常使用react開發，最近接觸了node.js, 自己開發要用的API  
